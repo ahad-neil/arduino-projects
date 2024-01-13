@@ -1,0 +1,27 @@
+//IR Sensors:
+//  - IR Sensor 1: Pin 2
+//  - IR Sensor 2: Pin 3
+//  - IR Sensor 3: Pin 4
+//  - IR Sensor 4: Pin 5
+//  - IR Sensor 5: Pin 6
+//  - IR Sensor 6: Pin 7
+//
+//Entrance Sensor: 
+//  - Signal: Pin 8
+//  - VCC: 5V
+//
+//Exit Sensor: 
+//  - Signal: Pin 9
+//  - VCC: 5V
+//
+//LCD I2C Module:
+//  - SDA: Analog pin 4 (A4)
+//  - SCL: Analog pin 5 (A5)
+//  - VCC: 5V
+//  - GND: GND
+//
+//Servo Motor:
+//  - Signal: Pin 10
+//  - VCC: 5V
+//  - GND: GND
+//
